@@ -1,0 +1,27 @@
+# Single-cell RNA-seq data description
+
+The `scdata` directory contains processed single-cell RNA-seq expression
+profiles used as the target domain for M4DR transfer learning.
+
+Due to the large size of single-cell expression matrices, these files are
+not included in the public GitHub repository.
+
+Users should download the corresponding raw single-cell sequencing datasets
+from the Gene Expression Omnibus (GEO) database and reproduce the
+preprocessing workflow described in this repository.
+
+scdata/
+│
+├── GSE114461_c_t12_tpm.csv
+├── GSE114461_c_t48_tpm.csv
+├── GSE117872_tpm.csv
+├── GSE140440_c3_tpm.csv
+├── GSE228154_c_t144_tpm.csv
+├── GSE228154_c_t216_tpm.csv
+├── GSE247684_c_t2tpm.csv
+├── GSE247688A_c_t10tpm.csv
+├── GSE247689AR1_c_t320tpm.csv
+├── GSE247689cov362_c_t5tpm.csv
+├── GSE247689cov362_c_t10tpm.csv
+├── GSE247689cov362_c_t20tpm.csv
+├── GSE247689cov362_c_t40tpm.csv
