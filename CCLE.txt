@@ -1,0 +1,12 @@
+Description:
+
+CCLE (Cancer Cell Line Encyclopedia) bulk RNA-seq expression profiles are
+used as the source-domain cellular representation.
+
+The CCLE dataset provides gene expression profiles of cancer cell lines and
+is used for learning drug response patterns in the source domain.
+
+Source:
+
+CCLE project:
+https://depmap.org/portal/

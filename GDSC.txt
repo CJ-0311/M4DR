@@ -1,0 +1,12 @@
+Description:
+
+The Genomics of Drug Sensitivity in Cancer (GDSC) dataset provides
+drug-response measurements across cancer cell lines.
+
+The drug sensitivity information is integrated with CCLE molecular profiles
+to construct labeled source-domain training samples.
+
+Source:
+
+GDSC database:
+https://www.cancerrxgene.org/
